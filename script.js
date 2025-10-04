@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 // --- Google Sheet Form Submission & Validation ---
-const scriptURL = 'https://script.google.com/macros/s/AKfycbyoynaHE8-L6PjyiJc0TjZujVbwGzEv_4HsROXQl6Bq4e86rh-5DgsvnO2zkSRNQ4AroA/exec'; // IMPORTANT: Replace with your script URL
+const scriptURL = 'https://script.google.com/macros/s/AKfycbyDPbYJHs5nwXCg4wTE5GwoUmst2IpqVmzkmLgcY-dD154YzYgklkmD-yzS_GAVv8FG9g/exec'; // IMPORTANT: Replace with your script URL
 const form = document.getElementById('contact-form');
 const submitButton = document.getElementById('submit-button');
 const successMessage = document.getElementById('form-success-message');
